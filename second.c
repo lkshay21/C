@@ -1,3 +1,4 @@
+//this is c code for input and output
 #include<stdio.h>
 main()
 {
